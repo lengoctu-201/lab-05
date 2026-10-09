@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Le Ngoc Tu Nguyen>`
+- **CCID:** `<lengoctu>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `student`    | `N/A` |
+| `<Add more>` | `N/A` |
